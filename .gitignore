@@ -1,0 +1,17 @@
+# Data and model files
+data/
+model.pkl
+
+# Documents
+*.pdf
+*.docx
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
